@@ -1,15 +1,13 @@
 
 ## 🖥️ Landing Page
 
-Está aplicação foi idealizada pela pelo canal de tecnologia [canal de tecnologia](https://www.youtube.com/@javascriptmastery), com prosposta de consumir api de terceiros utilizando Next.js-14, para ter acessos aos serviços de chat é necessario realizar um cadastro no site da OpenAi, acessar documentação e Gerar uma chave secreta, exemplo: 
-
-Esta aplicação está utilizando a biblioteca AXIOS para consumir a API da OpenAi e persistindo essas informações no LocalStorage do navegador que esta sendo renderizado. O processo se tivide em três etapas: 1° realizar uma pergunta, 2° após submeter a pergunta é chamado a API da OpenAi, 3° os dados retornados são tratados e armazenados no LocalStorage.
+Está aplicação foi idealizada pela pelo canal de tecnologia [canal de tecnologia](https://www.youtube.com/@javascriptmastery), com a prosposta de  criar uma página de destino impressionante da Nike, aplicando as habilidades de react, typscript e tailwind para criar um site visualmente impressionante.
+Esta aplicação está utilizando a biblioteca React para desenvolver a interface de usuario
 
 ##
 
 ### 📌 Layout do Projeto 
 <img width="1694" alt="Untitled" src="https://github.com/LuizMoura-88/App-Clone-chatgpt/assets/122941117/0e193741-ed4d-42c5-bd23-29f82cc8fe9c">
-
 
 ##
 
@@ -40,6 +38,15 @@ Esta aplicação está utilizando a biblioteca AXIOS para consumir a API da Open
 ##
 
 ### Como rodar o projeto ✅
+**Pré-requisitos**
+
+Certifique-se de que tem o seguinte instalado no seu computador:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+
 * ##### Faça o download do repositório, copie para uma pasta local, abra esta pasta por uma IDE (Ambiente de Desenvolvimento Integrado) foi utilizado o VSCODE
 ```
 1° Copiar link: git@github.com:LuizMoura-88/landing-page-nike.git
@@ -48,8 +55,6 @@ Esta aplicação está utilizando a biblioteca AXIOS para consumir a API da Open
 4° Em sua linha de comando  digite npm i + enter, isso irá baixar todas as dependencias registradas no arquivo package.json
 5° apos baixar todas as dependencias registradas no arquivo package.json aplique o comando npm run dev em seguida aperte `ctrl+click` no link que será gerado automaticamente pelo sistema exemplo: url: http://localhost:3000
 ```
-##
-
 ##
 
 🌐 [Visitar - WebSite](https://landing-page-nike-eight.vercel.app/)
@@ -83,98 +88,9 @@ Luiz Guilherme da Silva Moura <br/>
 
 
 
-<div align="center">
-  <br />
-    <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
-
-  <h3 align="center">TailwindCSS Crash Course</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
-Master Tailwind CSS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- Tailwind CSS
-- React.js
-
-## <a name="features">🔋 Features</a>
-
-👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
-
-👉 **Understanding Tailwind Internals**: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
-
-👉 **Best Practices**: Learn Tailwind's best practices for efficient and maintainable code.
-
-👉 **Theming**:Explore techniques to add different themes to your website using Tailwind CSS.
-
-👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
-
-while building a beautiful Nike Website with a,
-
-👉 **Complex Hero Section**: A visually appealing hero section showcasing key elements.
-
-👉 **Popular Products Showcase**: A section highlighting popular Nike products
-
-👉 **About Us Section**: An informative "About Us" section with a unique design.
-
-👉 **Special Offers**: Showcase special offers in an eye-catching manner
-
-👉 **Testimonials**: A testimonials section for a captivating user experience
-
-👉 **Newsletter Integration**: A newsletter section with Tailwind styling, encouraging user engagement
-
-👉 **Footer**: A comprehensive footer section containing various links
-
-👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
-
-and many more, including code architecture and reusability 
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+
 
 **Cloning the Repository**
 

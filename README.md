@@ -42,8 +42,8 @@ Esta aplicação está utilizando a biblioteca AXIOS para consumir a API da Open
 ### Como rodar o projeto ✅
 * ##### Faça o download do repositório, copie para uma pasta local, abra esta pasta por uma IDE (Ambiente de Desenvolvimento Integrado) foi utilizado o VSCODE
 ```
-1° Copiar link: git@github.com:LuizMoura-88/App-Clone-chatgpt.git
-2° Abrir a linha de comando de seu computador local, escolher um diretório e efetuar o git clone:  git clone git@github.com:LuizMoura-88/App-Clone-chatgpt.git
+1° Copiar link: git@github.com:LuizMoura-88/landing-page-nike.git
+2° Abrir a linha de comando de seu computador local, escolher um diretório e efetuar o git clone:  git clone git@github.com:LuizMoura-88/landing-page-nike.git
 3° Após efetuar o download do repositório remoto abrir o arquivo em sua IDE (ambiente de desenvolvimento integrado).
 4° Em sua linha de comando  digite npm i + enter, isso irá baixar todas as dependencias registradas no arquivo package.json
 5° apos baixar todas as dependencias registradas no arquivo package.json aplique o comando npm run dev em seguida aperte `ctrl+click` no link que será gerado automaticamente pelo sistema exemplo: url: http://localhost:3000

@@ -7,7 +7,8 @@ Esta aplicação está utilizando a biblioteca React para desenvolver a interfac
 ##
 
 ### 📌 Layout do Projeto 
-<img width="1694" alt="Untitled" src="https://github.com/LuizMoura-88/App-Clone-chatgpt/assets/122941117/0e193741-ed4d-42c5-bd23-29f82cc8fe9c">
+
+<img width="700" alt="landiPAge" src="https://github.com/LuizMoura-88/landing-page-nike/assets/122941117/029fa942-130c-49d1-afb1-dcee1c4117b2">
 
 ##
 
